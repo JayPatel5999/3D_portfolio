@@ -1,5 +1,5 @@
 import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, redux, tailwind,
-  nodejs, mongodb, git, figma, docker, meta, starbucks, tesla, shopify, carrent, jobit, tripguide, threejs } from "../assets";
+  nodejs, mongodb, git, figma, docker, pinnacle, carrent, jobit, tripguide, threejs } from "../assets";
 
 export const navLinks = [
   {
@@ -92,55 +92,24 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Software Developer",
+    company_name: "Pinnacle Group Inc",
+    icon: pinnacle,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2021 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+"Led the migration of legacy monolithic applications to a microservices architecture, improving system reliability and reducing downtime by 60%.",
+"Implemented advanced caching strategies using Redis, resulting in a 70% reduction in database load and a 30% improvement in application response times.",
+"Mentored a team of 5 junior developers, conducting regular code reviews, pair programming sessions, and technical workshops.",
+"Introduced and enforced coding standards and best practices, leading to a 40% reduction in bug reports and improved code maintainability.",
+"Collaborated with product managers and UX designers to translate business requirements into technical specifications and user stories.",
+"Presented technical solutions and project updates to stakeholders, ensuring alignment between business goals and technical implementation.",
+"Developed and maintained multiple front-end applications using React and Vue.js, adhering to responsive design principles and accessibility standards.",
+"Implemented real-time features using WebSockets and Firebase, enhancing user interaction and data synchronization.",
+"Designed and optimized database schemas and queries for MongoDB and MySQL, improving data retrieval times by 45%.",
+"Optimized CI/CD pipelines using GitHub Actions, reducing deployment time by 50% and enabling more frequent releases.",
+"Contributed to the development of RESTful APIs using Node.js and Express, facilitating seamless integration between front-end and back-end systems.",
+"Participated in Agile ceremonies, including daily stand-ups, sprint planning, and retrospectives, consistently meeting or exceeding sprint goals.",
     ],
   },
 ];
